@@ -5,7 +5,7 @@ CONWAY'S GAME OF LIFE
 
 @brief Classic cellular automata simulation.
 Find out more at : https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-GitHub link of this code :
+GitHub link of this code : https://github.com/itsNisarg/Conways-Game-Of-Life
 
 """
 
