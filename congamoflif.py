@@ -40,7 +40,7 @@ DEAD = chr(32)          # Representation of dead cell
 nextcells is a dictionary that hold the state of the npopulation.
 The keys are (x,y) tuples which correspond to the rows and columns
 of the cell grid. The values of the are randomly initialised to ALIVE
-state with a probability of 30%.
+state with a probability of 8%.
 """
 nextcells = dict()
 
